@@ -11,4 +11,33 @@
     padding: 0;
     margin: 0;
   }
+
+  #login-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: forestgreen;
+    color: ghostwhite;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  a{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color:darkcyan;
+    color: ghostwhite;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+  body{
+    background-color:aliceblue;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
   
